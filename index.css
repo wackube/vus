@@ -1314,7 +1314,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 /*Change Wordmark*/
 .wordmark-2iDDfm { 
-  font-size: 12px;
+  font-size: 0px;
   padding: 0;
 }
 .wordmark-2iDDfm::before{
@@ -1324,8 +1324,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
-  height: ;
-  width: ;
+  height: 0;
+  width: 0;
   margin-top: 0px;
 }
 .wordmark-2iDDfm svg {
